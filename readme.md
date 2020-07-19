@@ -1,8 +1,10 @@
 # Woocommerce Variable Product and Variations Programmatically
 
-You can copy these functions in your functions.php file inside your theme or create a plugin using the functions
+Creating variable products in woocommerce is easy but adding adding variations is a totally different thing, this script can help you to do that.
 
 ## Usage
+
+You can copy these functions in your functions.php file inside your theme or create a plugin using the functions
 
 ```php
 
